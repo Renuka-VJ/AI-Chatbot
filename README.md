@@ -1,1 +1,1 @@
-<h1>RenuX AI Chatbot</h1>
+<h1>RenuX AI ChatBot</h1>
